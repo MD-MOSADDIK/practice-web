@@ -2,9 +2,14 @@
 h1{font-size: 50px;}
 body{font-family: 'Roboto', sans-serif; margin: 0%;}
 .name-highlighted{color: goldenrod;}
-.half-width{ width: 40%; float: left; margin: 5%;}
+.half-width{ width: 38%; float: left; margin: 5%;}
 img{width: 80%;}
 .upper{background-image: url(images/top-banner.png);background-repeat: no-repeat;}
 section{height: 500px;}
 .linkedin-button { text-decoration: none; padding: 5px 10px; color: crimson; background-color: rgb(249, 253, 17); font-weight: 1000; border-radius:  10px;}
 .lower{background-image: url(images/dream-bg.png); background-repeat: no-repeat; background-position: right;}
+.xp-box{ box-shadow: 10px 10px 40px gray; height: 50%; background-color: honeydew; border-radius: 10px;}
+#first-box{border-left: solid rebeccapurple 2px;}
+#second-box{ border-left: solid tomato 2px; }
+.experienc{ background-image: url(images/exp-bg.png); background-repeat: no-repeat; background-position: left;}
+footer p{ text-align: center;}
