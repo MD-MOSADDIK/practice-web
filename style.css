@@ -6,7 +6,13 @@ body{font-family: 'Roboto', sans-serif; margin: 0%;}
 img{width: 80%;}
 .upper{background-image: url(images/top-banner.png);background-repeat: no-repeat;}
 section{height: 500px;}
-.linkedin-button { text-decoration: none; padding: 5px 10px; color: crimson; background-color: yellow; font-weight: 1000; border-radius:  10px; }
+.linkedin-button { 
+    text-decoration: none; 
+    padding: 5px 10px; 
+    color: crimson; 
+    background-image: linear-gradient(red,yellow); 
+    font-weight: 300px; 
+    border-radius: 10px;}
 .lower{background-image: url(images/dream-bg.png); background-repeat: no-repeat; background-position: right;}
 .xp-box{ box-shadow: 10px 10px 40px gray; height: 50%; background-color: honeydew; border-radius: 10px;}
 #first-box{border-left: solid rebeccapurple 2px;}
